@@ -1,4 +1,4 @@
-package DecoratorPattern.Beverage.IODecorator;
+package DecoratorPattern.IODecorator;
 
 import java.io.FilterInputStream;
 import java.io.IOException;

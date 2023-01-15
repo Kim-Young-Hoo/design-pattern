@@ -1,6 +1,6 @@
-package DecoratorPattern.Beverage.Condiment;
+package DecoratorPattern.Condiment;
 
-import DecoratorPattern.Beverage.Coffee.Beverage;
+import DecoratorPattern.Coffee.Beverage;
 
 public abstract class CondimentDecorator extends Beverage {
     Beverage beverage;

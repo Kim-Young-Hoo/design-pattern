@@ -1,4 +1,4 @@
-package DecoratorPattern.Beverage.Coffee;
+package DecoratorPattern.Coffee;
 
 public abstract class Beverage {
 
